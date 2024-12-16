@@ -100,6 +100,13 @@ This project was developed as part of the **INF1006 Computer Networks Assignment
 
 ---
 
+## 📹 Demonstration Video
+
+Watch the project demonstration video on YouTube:  
+[**Chat Application Demo**](https://youtu.be/a226wXnOiuY)
+
+---
+
 ## 👥 Contributors
 
 ### Group 19:
