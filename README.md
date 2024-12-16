@@ -110,6 +110,13 @@ To run this chat application, ensure you have the following:
 
 ---
 
+## 📹 Demonstration Video
+
+Watch the project demonstration video on YouTube:  
+[**Chat Application Demo**](https://www.youtube.com/watch?v=a226wXnOiuY)
+
+---
+
 ## 👥 Contributors
 
 ### Group 19:
