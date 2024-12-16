@@ -88,22 +88,25 @@ This project was developed as part of the **INF1006 Computer Networks Assignment
 
 ---
 
-## 🚀 How to Run
+## 🚀 Prerequisites
 
-### Prerequisites
-- Python 3.x installed on your system.
+To run this chat application, ensure you have the following:
 
-### Steps
-1. **Run the Server**:
-   ```bash
-   python ServerFinal
+1. **Python**: Version 3.x installed on your system.  
+   - [Download Python](https://www.python.org/downloads/)
 
----
+2. **Built-in Libraries**:
+   - `socket`: Handles network communication.
+   - `threading`: Manages multiple clients concurrently.
+   - `re`: Used for input validation (group names and commands).
 
-## 📹 Demonstration Video
+3. **Networking Setup**:
+   - Use `localhost` (`127.0.0.1`) for testing on the same machine.
+   - Ensure the server's IP address and port number are reachable if running across machines.
 
-Watch the project demonstration video on YouTube:  
-[**Chat Application Demo**](https://youtu.be/a226wXnOiuY)
+4. **System Configuration**:
+   - Open separate terminal/command prompts for the server and clients.
+   - Allow the chosen port through any firewall if running on a local network.
 
 ---
 
@@ -118,4 +121,9 @@ Watch the project demonstration video on YouTube:
 | Ryan Oh              | 2300916      | 2300916@sit.singaporetech.edu.sg       |
 | Darryl Ong           | 2301402      | 2301402@sit.singaporetech.edu.sg       |
 | James Gonzales       | 2301136      | 2301136@sit.singaporetech.edu.sg       |
+
+---
+
+**Note**: This project uses only Python's built-in libraries. No additional installations are required.
+
 
